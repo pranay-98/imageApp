@@ -3,7 +3,7 @@ from azure.storage.blob import BlobServiceClient
 import pandas as pd
 import io
 
-connect_str = 'DefaultEndpointsProtocol=https;AccountName=testimage07;AccountKey=iWpE0r4SYh1YOqd7WeIV8O0EjKC87V57whddAUv3NuxyXGMmlB8Ubc7bMeWdr3BO7jvChAThcRKa+AStrGozlw==;EndpointSuffix=core.windows.net'
+connect_str = "Give Your ConnectionString Here" #Give Your ConnectionString Here
 container_name ="imageaccess"
 container_excel = "files"
 
